@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tacticat07
+- 👀 I’m interested in: You, Cars, Game Development, Music, and playing Xbox :)
+- 🌱 I’m currently learning: HTML, CSS, and JavaScript! :)
+- 📫 How to reach me: https://www.instagram.com/mkindacut_/ Discord: tactical_sped#3151
