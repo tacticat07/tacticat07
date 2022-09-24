@@ -1,0 +1,106 @@
+body {
+    background-color: #f2e6e1;
+    text-align: center;
+}
+
+.addClick {
+    align-items: center;
+    background-image: linear-gradient(144deg, #af40ff, #ff0202 50%, #5fff02);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    max-width: 100%;
+    min-width: 140px;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.addClick:active,
+.addClick:hover {
+    outline: 0;
+}
+
+.addClick span {
+    background-color: rgb(5, 6, 45);
+    padding: 16px 24px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+}
+
+.addClick:hover span {
+    background: none;
+}
+
+@media (min-width: 768px) {
+    .addClick {
+        font-size: 24px;
+        min-width: 196px;
+    }
+}
+
+.addUpgrade {
+    align-items: center;
+    background-image: linear-gradient(144deg, #af40ff, #ff0202 50%, #5fff02);
+    border: 0;
+    border-radius: 8px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    box-sizing: border-box;
+    color: #ffffff;
+    display: flex;
+    font-family: Phantomsans, sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    line-height: 1em;
+    max-width: 100%;
+    min-width: 140px;
+    padding: 3px;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.addUpgrade:active,
+.addUpgrade:hover {
+    outline: 0;
+}
+
+.addUpgrade span {
+    background-color: rgb(5, 6, 45);
+    padding: 16px 24px;
+    border-radius: 6px;
+    width: 100%;
+    height: 100%;
+    transition: 300ms;
+}
+
+.addUograde:hover span {
+    background: none;
+}
+
+@media (min-width: 768px) {
+    .addUpgrade {
+        font-size: 24px;
+        min-width: 196px;
+    }
+}
+
+h1 {
+    background-image: linear-gradient(144deg, #af40ff, #ff0202 50%, #5fff02);
+}
